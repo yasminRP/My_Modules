@@ -8,8 +8,49 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:layout_width="wrap_content"
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="My Modules"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display3" />
 
+    <Button
+        android:id="@+id/buttonC203"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/c203Name"
+        android:layout_weight="1"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"/>
+
+    <Button
+        android:id="@+id/buttonC206"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/c206Name"
+        android:layout_weight="1"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"/>
+
+    <Button
+        android:id="@+id/buttonC218"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/c218Name"
+        android:layout_weight="1"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"/>
+
+    <Button
+        android:id="@+id/buttonC235"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/c235Name"
+        android:layout_weight="1"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"/>
+
+    <Button
+        android:id="@+id/buttonC346"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/c346Name"
+        android:layout_weight="1"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"/>
 </LinearLayout>

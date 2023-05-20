@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">My Modules</string>
+
+    <string name="c203Name">C203 Web Appln Development in php</string>
+    <string name="c206Name">C206 Software Development Process</string>
+    <string name="c218Name">C218 UI/UX Design for Apps</string>
+    <string name="c235Name">C235 IT Security and Management</string>
+    <string name="c346Name">C346 Mobile App Development</string>
+    <string name="module_code_c203">Module Code: C203</string>
+    <string name="module_name_c203">Module Name: Web Appln Development in php</string>
+    <string name="academic_year_2023">Academic Year: 2023</string>
+    <string name="module_credit_4">Module Credit: 4</string>
+    <string name="venue_w65d">Venue: W65D</string>
+    <string name="module_code_c206">Module Code: C206</string>
+    <string name="module_name_c206">Module Name: Software Development Process</string>
+    <string name="module_code_c218">Module Code: C218</string>
+    <string name="module_name_c218">Module Name: UI/UX Design for Apps</string>
+    <string name="module_code_c235">Module Code: C235</string>
+    <string name="module_name_c235">Module Name: IT Security and Management</string>
+    <string name="venue_e63a">Venue: E63A</string>
+
+
 </resources>
